@@ -15,7 +15,7 @@ Our current features are:
  - with strict rules
 
 In the future we'd like to implement these features, too:
-- <bMultiplayer</b>
+- <b>Multiplayer</b>
  - <i>It's not so far away</i>
 - 5 difficulty levels:
  - Casual
