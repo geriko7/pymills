@@ -20,6 +20,6 @@ In the future we'd like to implement these features, too:
 - 5 difficulty levels:
  - Casual
  - Easy
- - </b>Intermediate<b>
+ - </b>Intermediate</b>
  - Hard
  - Unbeatable
